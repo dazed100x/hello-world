@@ -1,2 +1,2 @@
 # hello-world
-babby's first repository
+I'm new to this
